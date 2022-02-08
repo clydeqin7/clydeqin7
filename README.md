@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on JS & TS & Vue
+- :computer: blog: https://blog.fe4fun.com
+- 📫 How to reach me: clydeqin7@foxmail.com
 <!--
 **clydeqin7/clydeqin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
